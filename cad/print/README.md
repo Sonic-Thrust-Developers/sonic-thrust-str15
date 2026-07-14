@@ -4,7 +4,7 @@ This folder contains tested, pre-configured machine G-code (`.gcode` / `.gcode.g
 
 ## 📂 Active Profiles
 
-*   `/prusa-i3-mk4/` - G-code tuned for Prusa MK4 (optimized for PA-CF / Carbon Fiber Nylon).
+*   `/prusa-Core One+/` - G-code tuned for Prusa Core One+ (optimized for PC-CF / Polycarbonate Carbon Fiber).
 *   `/bambu-lab-p1s/` - Bambu Studio project files (`.3mf`) with dialed-in speed, cooling, and retraction settings.
 
 ## ⚠️ Important Calibration Notes
