@@ -1,5 +1,3 @@
-# STR15 AutoCAD Designs
-This folder contains the official STL, gcode, and final `.dwg` CAD files for the 70mm EDF rotor and housing replacement.
 # 📐 STR15 AutoCAD & Print Files
 
 This directory contains the official design, mesh, and manufacturing files for the 70mm EDF rotor and housing replacement. 
